@@ -1,0 +1,1 @@
+Battery type: CR2032 3V

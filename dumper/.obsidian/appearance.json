@@ -1,0 +1,13 @@
+{
+  "accentColor": "#3abcfd",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "Gintronic,JetBrainsMono Nerd Font,Avenir Next,Inter",
+  "theme": "obsidian",
+  "textFontFamily": "MonoLisa,SEC",
+  "monospaceFontFamily": "MonoLisa,Source Code Pro",
+  "baseFontSize": 22,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
+}

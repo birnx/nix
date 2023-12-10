@@ -1,0 +1,2 @@
+# chatgpt api
+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

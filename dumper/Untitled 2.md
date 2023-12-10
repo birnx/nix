@@ -1,0 +1,1 @@
+light pink light blue gradient  pastel gloomy sad rainy  metropolitan city background young girl zip up hoodie is lying down looking out wide loft window from high rise apartment. high end computer parts and electronic hacking gear all over the floor. Shinichiro Watanabe cowboy bebop anime wide angle wall paper --ar 23:9 --q 1 --s 850 --style original --c 75 
