@@ -1,1 +1,0 @@
-7:30pm - 8:00pm, Tuesday, November 21, 2023

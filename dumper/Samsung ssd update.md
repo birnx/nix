@@ -1,1 +1,0 @@
-<https://askubuntu.com/questions/1348219/how-to-update-samsung-ssd-firmware-from-ubuntu#1386451>

@@ -1,2 +1,0 @@
-key - qctUwrs2Jg0K0fJdvjloXbYSx3tZTjWbkyLKswl5jQpHoZ7Wibi9PmDsLQBhiXNj
-secret - 5wgmH13LmKkvPsHc4KwdlRkcl2fE2UX2SkEvtNqRWmTWrbA0PLVGLGZAxthMD9eW

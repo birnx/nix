@@ -1,6 +1,0 @@
-spackle
-https://paintlifesupply.com/products/crawfords-spackling-paste?currency=USD&variant=32445476012087&utm_campaign=Google+Shopping&srsltid=AfmBOopoC2jiIsO3YKx07GAZnsjGZB63m_VpIw4xz3-WsI31Vxp983cPJew&utm_term=UCnrhmEmvA_bIRYkBVPqJ4zg&utm_medium=product_shelf&utm_source=youtube&utm_content=YT-AIJy4ZNdDLwagjlFpTrNogY5EVvnGvo95FAyazm1x0JUXLrbohib2g6jv2XvnIDPk2tFQE381noGwiT6mxLMjZsOOlmDVtGyTuAq-gmTu3uBagjoAGXi_c7wFsnYQHbDBNn4hBOe8rpZwTi09P_L1UUMUbcS_A0ESfwPUWvdQfq_lAeTOAU%3D
-
-paint roller - interior
-https://youtu.be/B0ymwaP8Bb0
-

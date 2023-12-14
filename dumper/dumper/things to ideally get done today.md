@@ -1,1 +1,0 @@
-run new cable to access points

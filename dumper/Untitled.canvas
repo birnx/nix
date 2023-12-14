@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"type":"text","text":"","id":"79df74c72fd0c3f3","x":-44,"y":153,"width":444,"height":327},
-		{"type":"text","text":"","id":"e2ee9c0212d05f79","x":-182,"y":62,"width":250,"height":60},
-		{"type":"file","file":"Screenshot_20230711_142853_YouTube.jpg","id":"e80bb9ad6b0797c2","x":-57,"y":233,"width":400,"height":71},
-		{"type":"text","text":"","id":"f81a63195308f8bb","x":-107,"y":660,"width":250,"height":60}
-	],
-	"edges":[]
-}
